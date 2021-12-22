@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/berkipekoglu/login-page-tailwindcss/issues"
   },
-  "homepage": "https://github.com/berkipekoglu/login-page-tailwindcss#readme"
+  "homepage": "https://github.com/berkipekoglu/login-page-tailwindcss#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.7"
+  }
 }
